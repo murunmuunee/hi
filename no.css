@@ -1,0 +1,14 @@
+body{
+    background: url(./no4.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center; 
+}    
+*{ 
+    margin: 0;
+    padding:0;
+}
+.txtno {
+    text-align: center;
+    color: #FF00FF;
+}

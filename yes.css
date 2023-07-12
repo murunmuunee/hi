@@ -1,0 +1,14 @@
+body{
+    background: url(./yes5.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center; 
+}    
+*{ 
+    margin: 0;
+    padding:0;
+}
+.txtyes {
+    text-align: center;
+    color:#A0522D ;
+}
